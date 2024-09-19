@@ -1,0 +1,25 @@
+
+@media (max-width: 768px) {
+
+ .press-content {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .footer-links {
+        flex-direction: column;
+    }
+
+    .link-column {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    .social-media {
+        text-align: center;
+    }
+}
